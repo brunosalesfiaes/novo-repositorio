@@ -15,7 +15,7 @@ vizinhancas = Dict(
     9=> [6, 8],
 )
 
-for estado in 1:N 
+for estado in 1:n
     vizinhos = vizinhancas[estado]
     for v in vizinhos 
           P[estado, v] = 1.0 / length(vizinhos)
