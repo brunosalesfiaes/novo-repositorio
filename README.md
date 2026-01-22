@@ -86,7 +86,7 @@ Ambas as questões são resolvidas automaticamente através de operações matem
 
 ```
 📦 labirinto-julia
- ┣ 📜 main.jl
+ ┣ 📜 test_QuestaoA.jl
  ┣ 📜 QuestaoTest.jl
  ┣ 📜 QuestaoA.jl
  ┣ 📜 QuestaoB.jl
