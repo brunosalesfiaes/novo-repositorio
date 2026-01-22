@@ -1,9 +1,3 @@
-Claro, Bruno! Abaixo está um **README.md** completo, bem estruturado e adequado para um projeto acadêmico em **Julia**, focado na **resolução automática de problemas de Álgebra Linear** aplicados a um **labirinto 3x3 (9 posições)** com um rato e um queijo.
-
-Você pode usar exatamente como está ou adaptar conforme as exigências da sua faculdade.
-
----
-
 # 🧀🐭 Labirinto Inteligente com Álgebra Linear em Julia
 
 ## 📌 Descrição do Projeto
@@ -158,5 +152,3 @@ Projeto desenvolvido para fins acadêmicos
 
 Este projeto é de uso acadêmico e educacional.
 Sinta-se à vontade para estudar, adaptar e reutilizar o código.
-
----
